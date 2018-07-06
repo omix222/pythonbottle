@@ -1,2 +1,4 @@
 bottle_test/bottle_test/dist
 bottle_test/bottle_test/lib
+
+django_test/django_test/lib
