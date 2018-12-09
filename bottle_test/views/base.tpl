@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Bottle Test</title>
-    <link rel="stylesheet" href="https://cdn.rawgit.com/Chalarangelo/mini.css/v3.0.0/dist/mini-default.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Chalarangelo/mini.css@v3.0.0/dist/mini-default.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
